@@ -6,3 +6,4 @@
 - 📚   Estudando - Front-End 
 
 
+github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
