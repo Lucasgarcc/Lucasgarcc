@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Garcia, I am a young adult, from Guariba, São Paulo - Brazil, of humble origin, of good character, who appreciates the knowledge, the power to learn something new every day, with enthusiasm and enthusiasm and a lot of resilience, looking to the future with an open mind to any challenge and opportunity that arises in my journey...</p>
+<p align="left">My name is Lucas Garcia, I am a young adult, from Guariba - São Paulo - Brazil, of humble origin, of good character, who appreciates the knowledge, the power to learn something new every day, with enthusiasm and enthusiasm and a lot of resilience, looking to the future with an open mind to any challenge and opportunity that arises in my journey...</p>
 
 ###
 
