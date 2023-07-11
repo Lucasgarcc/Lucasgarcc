@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Front-End and UI Design technologies<br>🎯 Goals: I consider myself someone organized with my studies, goals and objectives, choosing to start my projects and applying each knowledge I acquire.<br>🎲 Fun fact: 🎲 Fun fact: I am very creative I like to expose and express my creativity, if pain I need to break some rules that can provide me with excellent results</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Front-End and UI Design technologies<br>🎯 Goals: I consider myself someone organized with my studies, goals and objectives, choosing to start my projects and applying each knowledge I acquire.<br>🎲 Fun fact: I am very creative I like to expose and express my creativity, if pain I need to break some rules that can provide me with excellent results</p>
 
 ###
 
