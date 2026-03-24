@@ -1,20 +1,19 @@
 <h1 align="left">Hey, I'm Lucas Garcia 👋</h1>
 
 <p align="left">
-  Front-End Developer from Brazil, focused on building interfaces 
-  and learning how things work under the hood.
-  Currently studying React / Angular, UI Design and building my own tools from scratch.
+  Front-End Developer from Brazil, driven by curiosity and a genuine love for building things.
+  I started coding in 2022 and since then I've been obsessed with understanding how things
+  work under the hood — not just using tools, but knowing why they exist.
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Writing code since 2022<br>
-  📚 Currently learning Front-End and UI Design — working as a mobile Front-End Dev<br>
-  🎯 Building projects to apply everything I learn, one step at a time<br>
-  🎲 I like to understand how things really work — that's why I built a reactive framework from scratch
+  ✨ Writing code since 2022 — and breaking things on purpose to learn faster<br>
+  📚 Focused on Front-End and UI Design, currently working as a mobile Front-End Dev<br>
+  🎯 I learn by doing: every concept I study becomes a project or a piece of code<br>
+  🎲 I built a reactive framework from scratch just to understand how React really works
 </p>
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
