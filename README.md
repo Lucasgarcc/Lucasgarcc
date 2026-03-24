@@ -1,18 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, I'm Lucas Garcia 👋</h1>
 
-###
-
-<p align="left">My name is Lucas Garcia, I am a young adult, from Guariba - São Paulo - Brazil, of humble origin, of good character, who appreciates the knowledge, the power to learn something new every day, with enthusiasm and enthusiasm and a lot of resilience, looking to the future with an open mind to any challenge and opportunity that arises in my journey...</p>
-
-###
+<p align="left">
+  Front-End Developer from Brazil, focused on building interfaces 
+  and learning how things work under the hood.
+  Currently studying React / Angular, UI Design and building my own tools from scratch.
+</p>
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Front-End and UI Design technologies, I work as a mobile front-end Dev<br>🎯 Goals: I consider myself someone organized with my studies, goals and objectives, choosing to start my projects and applying each knowledge I acquire.<br>🎲 Fun fact: I am very creative, I like to expose and express my creativity, I like new challenges so that they can provide me with experiences and excellent results.</p>
-
-###
+<p align="left">
+  ✨ Writing code since 2022<br>
+  📚 Currently learning Front-End and UI Design — working as a mobile Front-End Dev<br>
+  🎯 Building projects to apply everything I learn, one step at a time<br>
+  🎲 I like to understand how things really work — that's why I built a reactive framework from scratch
+</p>
 
 <h3 align="left">🔥   My Stats :</h3>
 
