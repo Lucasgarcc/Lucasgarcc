@@ -16,7 +16,7 @@
   🎲 I built a reactive framework from scratch just to understand how React really works
 </p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ### 
 <p align="center">
