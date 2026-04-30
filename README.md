@@ -19,11 +19,10 @@
 <h2 align="left">🔥   My Stats :</h2>
 
 ### 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasgarcc&show_icons=true&theme=tokyonight&count_private=true&cache_id=1"  height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasgarcc&theme=tokyonight&cache_id=1" height="150" alt="GitHub Streak" />
-  <br><br>
-    <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasgarcc&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
+
 </p>  
 
 ###
@@ -33,6 +32,8 @@
 ###
 
 <div align="left">
+  <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasgarcc&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
