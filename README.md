@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
-<h2 align="left"> Project Emphase </h2>
+<h2 align="left">Featured Project </h2>
 
 ###
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) <h3>**[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)**</h3>
