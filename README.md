@@ -54,7 +54,7 @@
 <h2 align="left"> Project Emphase </h2>
 
 ###
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) **[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)** 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) <h3>**[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)**</h3>
 - Task manager construído com um mini framework reativo vanilla JS — sem React, sem Vue
   
 ###
