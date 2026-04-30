@@ -15,14 +15,16 @@
   🎯 I learn by doing: every concept I study becomes a project or a piece of code<br>
   🎲 I built a reactive framework from scratch just to understand how React really works
 </p>
+
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasgarcc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasgarcc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasgarcc&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Estatísticas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasgarcc&theme=tokyonight&cache_id=1" alt="GitHub Streak" />
+  <br><br>
+    <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasgarcc&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
+</p>  
 
 ###
 
@@ -49,27 +51,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-### 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasgarcc/&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Estatísticas" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasgarcc/&theme=tokyonight&cache_id=1" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasgarcc&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
-</p>
-
-###
-
 <h2 align="left"> Project Emphase </h2>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)**[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)** 
-- Task manager construído com um mini framework reativo vanilla JS — sem React, sem Vue.
-
-
 ###
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) **[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)** 
+- Task manager construído com um mini framework reativo vanilla JS — sem React, sem Vue
 
 <h2 align="left">Historic Commits</h2>
 
