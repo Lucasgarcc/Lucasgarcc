@@ -20,8 +20,8 @@
 
 ### 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasgarcc&show_icons=true&theme=tokyonight&count_private=true&cache_id=1" alt="Estatísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasgarcc&theme=tokyonight&cache_id=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasgarcc&show_icons=true&theme=tokyonight&count_private=true&cache_id=1"  height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasgarcc&theme=tokyonight&cache_id=1" height="150" alt="GitHub Streak" />
   <br><br>
     <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasgarcc&layout=compact&theme=tokyonight&langs_count=5&cache_id=2" alt="Linguagens" />
 </p>  
@@ -56,8 +56,9 @@
 ###
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) **[Framework JS Vanilla](https://github.com/Lucasgarcc/Flux-framework)** 
 - Task manager construído com um mini framework reativo vanilla JS — sem React, sem Vue
-
-<h2 align="left">Historic Commits</h2>
+  
+###
+<h2 align="left">🐍 Historic Commits </h2>
 
 ###
 
